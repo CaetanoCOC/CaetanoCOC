@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:b8a9c9,100=1a1a2e&height=200&section=header&text=Bruno%20Caetano&fontSize=60&fontColor=e8d5f5&fontAlignY=38&desc=Data%20Science%20%7C%20Full%20Stack%20%7C%20Builder&descAlignY=58&descColor=c9b8e8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:b8a9c9,100=1a1a2e&height=200&section=header&text=Bruno%20Caetano&fontSize=60&fontColor=e8d5f5&fontAlignY=38&desc=Analista%20Fiscal%20%7C%20Analista%20de%20Dados%20%7C%20Auditor%20Fiscal&descAlignY=58&descColor=c9b8e8" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C9B8E8&background=1A1A2E00&center=true&vCenter=true&width=600&lines=Estudante+de+Data+Science+%F0%9F%93%8A;Construindo+ferramentas+que+resolvem+problemas;Python+%7C+TypeScript+%7C+FastAPI+%7C+React;S%C3%A3o+Paulo%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C9B8E8&background=1A1A2E00&center=true&vCenter=true&width=600&lines=Analista+Fiscal+%F0%9F%93%8B;Analista+de+Dados+%F0%9F%93%8A;Auditor+Fiscal+%F0%9F%94%8D;Estudante+de+Data+Science+%40+Anhanguera;S%C3%A3o+Paulo%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@ caetano = {
     "nome":       "Bruno Caetano",
     "localização":"São Paulo, Brasil 🇧🇷",
     "formação":   "Data Science @ Anhanguera",
-    "foco":       ["Análise de dados", "Automações", "Produtos digitais"],
+    "foco":       ["Análise fiscal", "Auditoria", "Análise de dados"],
     "ferramentas":["Python", "TypeScript", "FastAPI", "React", "Streamlit"],
     "status":     "Sempre construindo algo novo 🚀"
 }
