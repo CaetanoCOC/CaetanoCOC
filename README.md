@@ -145,9 +145,9 @@ caetano = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=b8d4e8)](https://linkedin.com/in/CaetanoCOC)
-[![Twitter](https://img.shields.io/badge/Twitter-1a1a2e?style=for-the-badge&logo=x&logoColor=c9b8e8)](https://twitter.com/CaetanoCOC)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=e8b8c9)](https://instagram.com/CaetanoCOC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=b8d4e8)](https://www.linkedin.com/in/bcaetano-datascience/)
+[![Twitter](https://img.shields.io/badge/Twitter-1a1a2e?style=for-the-badge&logo=x&logoColor=c9b8e8)](https://x.com/OsCaetano)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=e8b8c9)](https://www.instagram.com/caetanopro/)
 
 </div>
 
