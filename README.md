@@ -104,14 +104,15 @@ caetano = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📊 Dashboard Financeiro</h3>
+      <h3 align="center">🧾 FiscalX</h3>
       <p align="center">
-        Dashboard interativo de análise financeira construído com Streamlit e Python.<br/><br/>
+        Sistema de auditoria fiscal automatizada de NFe 4.0.<br/>
+        Valida tributação (ICMS, PIS, COFINS, IPI) e detecta anomalias fiscais.<br/><br/>
+        <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=c9b8e8"/>
         <img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=flat-square&logo=streamlit&logoColor=e8b8c9"/>
-        <img src="https://img.shields.io/badge/Jupyter-1a1a2e?style=flat-square&logo=jupyter&logoColor=e8d4b8"/>
       </p>
       <p align="center">
-        <a href="https://github.com/CaetanoCOC/dashboard-financeiro-streamlit">
+        <a href="https://github.com/CaetanoCOC/FiscalX">
           <img src="https://img.shields.io/badge/Ver%20Repositório-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5f5"/>
         </a>
       </p>
