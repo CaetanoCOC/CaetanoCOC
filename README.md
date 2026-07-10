@@ -104,15 +104,15 @@ caetano = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🧾 FiscalX</h3>
+      <h3 align="center">🃏 SystemCards</h3>
       <p align="center">
-        Sistema de auditoria fiscal automatizada de NFe 4.0.<br/>
-        Valida tributação (ICMS, PIS, COFINS, IPI) e detecta anomalias fiscais.<br/><br/>
-        <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=c9b8e8"/>
-        <img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=flat-square&logo=streamlit&logoColor=e8b8c9"/>
+        App de flashcards com repetição espaçada (SRS) e motor de Machine Learning próprio.<br/>
+        Detecta fadiga cognitiva e ajusta dificuldade automaticamente. Empacotado como app Android nativo.<br/><br/>
+        <img src="https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=b8d4e8"/>
+        <img src="https://img.shields.io/badge/Capacitor-1a1a2e?style=flat-square&logo=capacitor&logoColor=e8b8c9"/>
       </p>
       <p align="center">
-        <a href="https://github.com/CaetanoCOC/FiscalX">
+        <a href="https://github.com/CaetanoCOC/SystemCards">
           <img src="https://img.shields.io/badge/Ver%20Repositório-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5f5"/>
         </a>
       </p>
